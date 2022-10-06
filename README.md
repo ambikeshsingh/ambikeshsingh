@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambikeshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ambikeshsingh" /> </p>
 
-- 🌱 I’m currently learning **Django,RestAPI and Oracle Cloud Infrastructure**
+- 🌱 I’m currently learning **Deep Learning,RestAPI and Oracle Cloud Infrastructure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ambikeshsingh](https://github.com/ambikeshsingh)
 
