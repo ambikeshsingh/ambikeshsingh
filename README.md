@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMBIKESH SINGH</h1>
-<h3 align="center">A passionate Python developer | Coder | Certified in Python , SQL ,Data Structure</h3>
+<h3 align="center">A passionate Data Scientist | Coder | Certified in Data Scientist , SQL ,Machine Learning ,Data Structure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambikeshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ambikeshsingh" /> </p>
 
